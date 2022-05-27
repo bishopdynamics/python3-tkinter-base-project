@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+venv
+tmp
+build
+dist
+commit_id
+creds.yaml
+__pycache__
